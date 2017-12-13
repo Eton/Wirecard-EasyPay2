@@ -1,0 +1,194 @@
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\ApplicationInsights.config
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\roslyn\csc.exe
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\roslyn\csc.exe.config
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\roslyn\csc.rsp
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\roslyn\csi.exe
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\roslyn\csi.exe.config
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\roslyn\csi.rsp
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\roslyn\Microsoft.Win32.Primitives.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\roslyn\System.AppContext.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\roslyn\System.Collections.Immutable.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\roslyn\System.Console.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\roslyn\System.Diagnostics.Process.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\roslyn\System.IO.Compression.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\roslyn\System.IO.FileSystem.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\roslyn\System.IO.Pipes.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\roslyn\System.Security.AccessControl.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\roslyn\System.Security.Claims.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\roslyn\System.Threading.Thread.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\roslyn\System.ValueTuple.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\roslyn\System.Xml.XPath.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\roslyn\vbc.exe
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\roslyn\vbc.exe.config
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\roslyn\vbc.rsp
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\roslyn\VBCSCompiler.exe
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\roslyn\VBCSCompiler.exe.config
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\EasyPay2.dll.config
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\EasyPay2.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\EasyPay2.pdb
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\Antlr3.Runtime.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\Microsoft.AI.Web.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\Microsoft.AI.WindowsServer.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\Microsoft.ApplicationInsights.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\Microsoft.Web.Infrastructure.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\Newtonsoft.Json.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\System.Web.Helpers.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\System.Web.Mvc.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\System.Web.Optimization.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\System.Web.Razor.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\System.Web.WebPages.Deployment.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\System.Web.WebPages.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\System.Web.WebPages.Razor.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\WebGrease.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\System.Web.Helpers.xml
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\System.Web.Mvc.xml
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\System.Web.Optimization.xml
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\System.Web.Razor.xml
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\System.Web.WebPages.xml
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\System.Web.WebPages.Deployment.xml
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\System.Web.WebPages.Razor.xml
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\Antlr3.Runtime.pdb
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\Newtonsoft.Json.xml
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\Microsoft.ApplicationInsights.xml
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\Microsoft.AI.WindowsServer.xml
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\Microsoft.AI.Web.xml
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\zh-Hant\System.Web.Helpers.resources.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\zh-Hant\System.Web.Mvc.resources.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\zh-Hant\System.Web.Optimization.resources.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\zh-Hant\System.Web.Razor.resources.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\zh-Hant\System.Web.WebPages.resources.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\obj\Debug\EasyPay2.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\obj\Debug\EasyPay2.csproj.CoreCompileInputs.cache
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\obj\Debug\EasyPay2.dll
+c:\users\user\documents\visual studio 2017\Projects\EasyPay2\EasyPay2\obj\Debug\EasyPay2.pdb
+D:\EasyPay2\EasyPay2\bin\ApplicationInsights.config
+D:\EasyPay2\EasyPay2\bin\roslyn\csc.exe
+D:\EasyPay2\EasyPay2\bin\roslyn\csc.exe.config
+D:\EasyPay2\EasyPay2\bin\roslyn\csc.rsp
+D:\EasyPay2\EasyPay2\bin\roslyn\csi.exe
+D:\EasyPay2\EasyPay2\bin\roslyn\csi.exe.config
+D:\EasyPay2\EasyPay2\bin\roslyn\csi.rsp
+D:\EasyPay2\EasyPay2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\EasyPay2\EasyPay2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\EasyPay2\EasyPay2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\EasyPay2\EasyPay2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\EasyPay2\EasyPay2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\EasyPay2\EasyPay2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\EasyPay2\EasyPay2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\EasyPay2\EasyPay2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\EasyPay2\EasyPay2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\EasyPay2\EasyPay2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\EasyPay2\EasyPay2\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\EasyPay2\EasyPay2\bin\roslyn\System.AppContext.dll
+D:\EasyPay2\EasyPay2\bin\roslyn\System.Collections.Immutable.dll
+D:\EasyPay2\EasyPay2\bin\roslyn\System.Console.dll
+D:\EasyPay2\EasyPay2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\EasyPay2\EasyPay2\bin\roslyn\System.Diagnostics.Process.dll
+D:\EasyPay2\EasyPay2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\EasyPay2\EasyPay2\bin\roslyn\System.IO.Compression.dll
+D:\EasyPay2\EasyPay2\bin\roslyn\System.IO.FileSystem.dll
+D:\EasyPay2\EasyPay2\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\EasyPay2\EasyPay2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\EasyPay2\EasyPay2\bin\roslyn\System.IO.Pipes.dll
+D:\EasyPay2\EasyPay2\bin\roslyn\System.Reflection.Metadata.dll
+D:\EasyPay2\EasyPay2\bin\roslyn\System.Security.AccessControl.dll
+D:\EasyPay2\EasyPay2\bin\roslyn\System.Security.Claims.dll
+D:\EasyPay2\EasyPay2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\EasyPay2\EasyPay2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\EasyPay2\EasyPay2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\EasyPay2\EasyPay2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\EasyPay2\EasyPay2\bin\roslyn\System.Security.Principal.Windows.dll
+D:\EasyPay2\EasyPay2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\EasyPay2\EasyPay2\bin\roslyn\System.Threading.Thread.dll
+D:\EasyPay2\EasyPay2\bin\roslyn\System.ValueTuple.dll
+D:\EasyPay2\EasyPay2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\EasyPay2\EasyPay2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\EasyPay2\EasyPay2\bin\roslyn\System.Xml.XPath.dll
+D:\EasyPay2\EasyPay2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\EasyPay2\EasyPay2\bin\roslyn\vbc.exe
+D:\EasyPay2\EasyPay2\bin\roslyn\vbc.exe.config
+D:\EasyPay2\EasyPay2\bin\roslyn\vbc.rsp
+D:\EasyPay2\EasyPay2\bin\roslyn\VBCSCompiler.exe
+D:\EasyPay2\EasyPay2\bin\roslyn\VBCSCompiler.exe.config
+D:\EasyPay2\EasyPay2\bin\EasyPay2.dll.config
+D:\EasyPay2\EasyPay2\bin\EasyPay2.dll
+D:\EasyPay2\EasyPay2\bin\EasyPay2.pdb
+D:\EasyPay2\EasyPay2\bin\Antlr3.Runtime.dll
+D:\EasyPay2\EasyPay2\bin\Microsoft.AI.Agent.Intercept.dll
+D:\EasyPay2\EasyPay2\bin\Microsoft.AI.DependencyCollector.dll
+D:\EasyPay2\EasyPay2\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\EasyPay2\EasyPay2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\EasyPay2\EasyPay2\bin\Microsoft.AI.Web.dll
+D:\EasyPay2\EasyPay2\bin\Microsoft.AI.WindowsServer.dll
+D:\EasyPay2\EasyPay2\bin\Microsoft.ApplicationInsights.dll
+D:\EasyPay2\EasyPay2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\EasyPay2\EasyPay2\bin\Microsoft.Web.Infrastructure.dll
+D:\EasyPay2\EasyPay2\bin\Newtonsoft.Json.dll
+D:\EasyPay2\EasyPay2\bin\System.Web.Helpers.dll
+D:\EasyPay2\EasyPay2\bin\System.Web.Mvc.dll
+D:\EasyPay2\EasyPay2\bin\System.Web.Optimization.dll
+D:\EasyPay2\EasyPay2\bin\System.Web.Razor.dll
+D:\EasyPay2\EasyPay2\bin\System.Web.WebPages.Deployment.dll
+D:\EasyPay2\EasyPay2\bin\System.Web.WebPages.dll
+D:\EasyPay2\EasyPay2\bin\System.Web.WebPages.Razor.dll
+D:\EasyPay2\EasyPay2\bin\WebGrease.dll
+D:\EasyPay2\EasyPay2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\EasyPay2\EasyPay2\bin\System.Web.Helpers.xml
+D:\EasyPay2\EasyPay2\bin\System.Web.Mvc.xml
+D:\EasyPay2\EasyPay2\bin\System.Web.Optimization.xml
+D:\EasyPay2\EasyPay2\bin\System.Web.Razor.xml
+D:\EasyPay2\EasyPay2\bin\System.Web.WebPages.xml
+D:\EasyPay2\EasyPay2\bin\System.Web.WebPages.Deployment.xml
+D:\EasyPay2\EasyPay2\bin\System.Web.WebPages.Razor.xml
+D:\EasyPay2\EasyPay2\bin\Antlr3.Runtime.pdb
+D:\EasyPay2\EasyPay2\bin\Newtonsoft.Json.xml
+D:\EasyPay2\EasyPay2\bin\Microsoft.ApplicationInsights.xml
+D:\EasyPay2\EasyPay2\bin\Microsoft.AI.DependencyCollector.xml
+D:\EasyPay2\EasyPay2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\EasyPay2\EasyPay2\bin\Microsoft.AI.WindowsServer.xml
+D:\EasyPay2\EasyPay2\bin\Microsoft.AI.Web.xml
+D:\EasyPay2\EasyPay2\bin\zh-Hant\System.Web.Helpers.resources.dll
+D:\EasyPay2\EasyPay2\bin\zh-Hant\System.Web.Mvc.resources.dll
+D:\EasyPay2\EasyPay2\bin\zh-Hant\System.Web.Optimization.resources.dll
+D:\EasyPay2\EasyPay2\bin\zh-Hant\System.Web.Razor.resources.dll
+D:\EasyPay2\EasyPay2\bin\zh-Hant\System.Web.WebPages.resources.dll
+D:\EasyPay2\EasyPay2\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+D:\EasyPay2\EasyPay2\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+D:\EasyPay2\EasyPay2\obj\Debug\EasyPay2.csprojResolveAssemblyReference.cache
+D:\EasyPay2\EasyPay2\obj\Debug\EasyPay2.csproj.CoreCompileInputs.cache
+D:\EasyPay2\EasyPay2\obj\Debug\EasyPay2.dll
+D:\EasyPay2\EasyPay2\obj\Debug\EasyPay2.pdb
